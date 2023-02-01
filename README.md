@@ -2,7 +2,7 @@ Olá, Eu sou o Igor Morais 👋
 
 
 
-- 🧠 Estudando JavaScript, HTML, CSS
+- 🧠 Estudando JavaScript, HTML, CSS, C#
 - 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas
 
 <div>
