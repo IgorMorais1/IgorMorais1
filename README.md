@@ -25,6 +25,6 @@ Olá, Eu sou o Igor Morais 👋
  
  </div>
     
-![Snake animation](https://github.com/LucasEliass/ellen2121/blob/output/github-contribution-grid-snake.svg)
+
 
   
