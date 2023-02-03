@@ -23,7 +23,7 @@ Olá, Eu sou o Igor Morais 👋
    <a href = "mailto: igor.morais4657gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href= "https://www.linkedin.com/in/igor-morais-715a36131/" target ="_blank"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=yellow" target ="_blank"></a>   
        
-     ![Snake animation](https://github.com/IgorMorais1/IgorMorais1/blob/output/github-contribution-grid-snake.svg
+     ![Snake animation](https://github.com/ELLEN2121/ELLEN2121/blob/output/github-contribution-grid-snake.svg
      
  </div>
     
