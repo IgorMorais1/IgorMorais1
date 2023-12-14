@@ -4,11 +4,11 @@ Olá, Eu sou o Igor Morais 👋
 
 - 🧠 Estudando JavaScript, HTML, CSS, C#
 - 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas
-
-<div>
-    <a href = "https://github.com/IgorMorais1">
-    <img height = "150em" src = "https://github-readme-stats.vercel.app/api?username=IgorMorais1&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-    <img height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=IgorMorais1&layout=compact&langs_count=16&theme=highcontrast"/>
+ 
+ <div>
+   <a href="https://github.com/IgorMorais1">
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=IgorMorais1&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorMorais1&layout=compact&langs_count=6&theme=highcontrast"/>
 </div>
 
 <div style = "display: inline_block"><br>
